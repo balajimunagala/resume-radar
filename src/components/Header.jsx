@@ -15,12 +15,12 @@ export default function Header() {
           </span>
         </div>
         <a
-          href="https://github.com"
+          href="https://github.com/balajimunagala/resume-radar"
           target="_blank"
           rel="noreferrer"
           className="label-eyebrow hidden items-center gap-1.5 transition-colors hover:text-ink sm:flex"
         >
-          built with gemini
+          Built with Groq
         </a>
       </div>
     </header>
